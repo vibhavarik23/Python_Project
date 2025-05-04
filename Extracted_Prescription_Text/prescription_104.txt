@@ -1,0 +1,14 @@
+Prescription No: RX00104
+Patient Name: Kiran Verma
+
+Age: 56
+
+Date: 29-Apr-2025
+
+Prescribed By: Dr. Neeraj Bansal
+
+Amoxicillin 250mg - 1 cap thrice daily before food
+Metformin 500mg - 1 tab twice after meals
+Ranitidine 150mg - 1 tab before bed
+
+Notes: Take as prescribed. Drink water. Avoid fatty foods.

@@ -1,0 +1,13 @@
+Prescription No: RX00032
+Patient Name: Meena Patel
+Age: 45
+
+Date: 29-Apr-2025
+
+Prescribed By: Dr. Priya Kapoor
+
+Pantoprazole 40mg - 1 tab daily before breakfast
+Ranitidine 150mg - 1 tab before bed
+Amoxicillin 250mg - 1 cap thrice daily before food
+
+Notes: Take as prescribed. Drink water. Avoid fatty foods.

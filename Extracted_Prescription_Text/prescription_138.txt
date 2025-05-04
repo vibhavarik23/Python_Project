@@ -1,0 +1,12 @@
+Prescription No: RX00138
+Patient Name: Kiran Verma
+Age: 20
+
+Date: 29-Apr-2025
+
+Prescribed By: Dr. Anjali Mehta
+Ranitidine 150mg - 1 tab before bed
+Paracetamol 500mg - 1 tab twice daily after food
+Pantoprazole 40mg - 1 tab daily before breakfast
+
+Notes: Take as prescribed. Drink water. Avoid fatty foods.

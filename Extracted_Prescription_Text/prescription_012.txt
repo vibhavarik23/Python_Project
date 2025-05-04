@@ -1,0 +1,13 @@
+Prescription No: RX00012
+Patient Name: Kiran Verma
+Age: 53
+
+Date: 29-Apr-2025
+
+Prescribed By: Dr. Priya Kapoor
+
+Paracetamol 500mg - 1 tab twice daily after food
+Ibuprofen 400mg - 1 tab every 6 hours
+Pantoprazole 40mg - 1 tab daily before breakfast
+
+Notes: Take as prescribed. Drink water. Avoid fatty foods.

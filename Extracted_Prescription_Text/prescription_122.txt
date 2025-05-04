@@ -1,0 +1,13 @@
+Prescription No: RX00122
+Patient Name: Kiran Verma
+Age: 23
+
+Date: 29-Apr-2025
+
+Prescribed By: Dr. Priya Kapoor
+
+Pantoprazole 40mg - 1 tab daily before breakfast
+Amoxicillin 250mg - 1 cap thrice daily before food
+Ibuprofen 400mg - 1 tab every 6 hours
+
+Notes: Take as prescribed. Drink water. Avoid fatty foods.

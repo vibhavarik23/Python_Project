@@ -1,0 +1,12 @@
+Prescription No: RX00141
+Patient Name: Divya Mehra
+Age: 75
+
+Date: 29-Apr-2025
+Prescribed By: Dr. Amit Shah
+
+Amoxicillin 250mg - 1 cap thrice daily before food
+Ibuprofen 400mg - 1 tab every 6 hours
+Metformin 500mg - 1 tab twice after meals
+
+Notes: Take as prescribed. Drink water. Avoid fatty foods.

@@ -1,0 +1,14 @@
+Prescription No: RX00001
+Patient Name: Amit Joshi
+
+Age: 44
+
+Date: 29-Apr-2025
+
+Prescribed By: Dr. Neeraj Bansal
+
+Ibuprofen 400mg - 1 tab every 6 hours
+Ranitidine 150mg - 1 tab before bed
+ORS - Mix in water and drink as needed
+
+Notes: Take as prescribed. Drink water. Avoid fatty foods.

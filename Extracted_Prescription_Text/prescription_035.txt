@@ -1,0 +1,12 @@
+Prescription No: RX00035
+Patient Name: Amit Joshi
+Age: 22
+
+Date: 29-Apr-2025
+Prescribed By: Dr. Amit Shah
+
+Ibuprofen 400mg - 1 tab every 6 hours
+Paracetamol 500mg - 1 tab twice daily after food
+Metformin 500mg - 1 tab twice after meals
+
+Notes: Take as prescribed. Drink water. Avoid fatty foods.

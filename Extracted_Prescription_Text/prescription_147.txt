@@ -1,0 +1,13 @@
+Prescription No: RX00147
+Patient Name: Meena Patel
+Age: 31
+
+Date: 29-Apr-2025
+
+Prescribed By: Dr. Rekha Nair
+
+Ibuprofen 400mg - 1 tab every 6 hours
+Metformin 500mg - 1 tab twice after meals
+ORS - Mix in water and drink as needed
+
+Notes: Take as prescribed. Drink water. Avoid fatty foods.

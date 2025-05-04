@@ -1,0 +1,12 @@
+Prescription No: RX00143
+Patient Name: Meena Patel
+Age: 27
+
+Date: 29-Apr-2025
+Prescribed By: Dr. Amit Shah
+
+Pantoprazole 40mg - 1 tab daily before breakfast
+Amoxicillin 250mg - 1 cap thrice daily before food
+Metformin 500mg - 1 tab twice after meals
+
+Notes: Take as prescribed. Drink water. Avoid fatty foods.

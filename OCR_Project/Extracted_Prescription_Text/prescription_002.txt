@@ -1,0 +1,14 @@
+Prescription No: RX00002
+Patient Name: Amit Joshi
+
+Age: 19
+
+Date: 29-Apr-2025
+
+Prescribed By: Dr. Sameer Desai
+
+Metformin 500mg - 1 tab twice after meals
+Ibuprofen 400mg - 1 tab every 6 hours
+Amoxicillin 250mg - 1 cap thrice daily before food
+
+Notes: Take as prescribed. Drink water. Avoid fatty foods.

@@ -1,0 +1,12 @@
+Prescription No: RX00030
+Patient Name: Amit Joshi
+Age: 62
+
+Date: 29-Apr-2025
+Prescribed By: Dr. Amit Shah
+
+Ibuprofen 400mg - 1 tab every 6 hours
+Pantoprazole 40mg - 1 tab daily before breakfast
+Ranitidine 150mg - 1 tab before bed
+
+Notes: Take as prescribed. Drink water. Avoid fatty foods.

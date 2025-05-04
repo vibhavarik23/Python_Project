@@ -1,0 +1,12 @@
+Prescription No: RX00041
+Patient Name: Amit Joshi
+Age: 47
+
+Date: 29-Apr-2025
+Prescribed By: Dr. Amit Shah
+
+Paracetamol 500mg - 1 tab twice daily after food
+Pantoprazole 40mg - 1 tab daily before breakfast
+ORS - Mix in water and drink as needed
+
+Notes: Take as prescribed. Drink water. Avoid fatty foods.

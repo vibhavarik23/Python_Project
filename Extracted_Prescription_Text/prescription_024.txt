@@ -1,0 +1,13 @@
+Prescription No: RX00024
+Patient Name: Meena Patel
+Age: 35
+
+Date: 29-Apr-2025
+
+Prescribed By: Dr. Sameer Desai
+
+Ibuprofen 400mg - 1 tab every 6 hours
+Ranitidine 150mg - 1 tab before bed
+Metformin 500mg - 1 tab twice after meals
+
+Notes: Take as prescribed. Drink water. Avoid fatty foods.

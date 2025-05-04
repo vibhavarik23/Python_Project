@@ -1,0 +1,13 @@
+Prescription No: RX00004
+Patient Name: Manoj Tiwari
+Age: 23
+
+Date: 29-Apr-2025
+
+Prescribed By: Dr. Priya Kapoor
+
+Amoxicillin 250mg - 1 cap thrice daily before food
+ORS - Mix in water and drink as needed
+Pantoprazole 40mg - 1 tab daily before breakfast
+
+Notes: Take as prescribed. Drink water. Avoid fatty foods.

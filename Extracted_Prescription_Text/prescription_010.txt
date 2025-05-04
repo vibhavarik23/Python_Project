@@ -1,0 +1,13 @@
+Prescription No: RX00010
+Patient Name: Manoj Tiwari
+Age: 45
+
+Date: 29-Apr-2025
+
+Prescribed By: Dr. Anjali Mehta
+
+ORS - Mix in water and drink as needed
+Pantoprazole 40mg - 1 tab daily before breakfast
+Paracetamol 500mg - 1 tab twice daily after food
+
+Notes: Take as prescribed. Drink water. Avoid fatty foods.

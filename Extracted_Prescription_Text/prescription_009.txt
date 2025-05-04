@@ -1,0 +1,13 @@
+Prescription No: RX00009
+Patient Name: Kiran Verma
+Age: 60
+
+Date: 29-Apr-2025
+
+Prescribed By: Dr. Neeraj Bansal
+
+Amoxicillin 250mg - 1 cap thrice daily before food
+Metformin 500mg - 1 tab twice after meals
+Pantoprazole 40mg - 1 tab daily before breakfast
+
+Notes: Take as prescribed. Drink water. Avoid fatty foods.

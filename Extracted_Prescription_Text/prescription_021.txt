@@ -1,0 +1,13 @@
+Prescription No: RX00021
+Patient Name: Kiran Verma
+Age: 29
+
+Date: 29-Apr-2025
+
+Prescribed By: Dr. Neeraj Bansal
+
+Ranitidine 150mg - 1 tab before bed
+Metformin 500mg - 1 tab twice after meals
+Paracetamol 500mg - 1 tab twice daily after food
+
+Notes: Take as prescribed. Drink water. Avoid fatty foods.

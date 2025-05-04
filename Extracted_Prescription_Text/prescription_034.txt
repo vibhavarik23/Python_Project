@@ -1,0 +1,13 @@
+Prescription No: RX00034
+Patient Name: Divya Mehra
+Age: 74
+
+Date: 29-Apr-2025
+
+Prescribed By: Dr. Neeraj Bansal
+
+Pantoprazole 40mg - 1 tab daily before breakfast
+Paracetamol 500mg - 1 tab twice daily after food
+Ranitidine 150mg - 1 tab before bed
+
+Notes: Take as prescribed. Drink water. Avoid fatty foods.

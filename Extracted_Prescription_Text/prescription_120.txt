@@ -1,0 +1,14 @@
+Prescription No: RX00120
+Patient Name: Amit Joshi
+
+Age: 48
+
+Date: 29-Apr-2025
+
+Prescribed By: Dr. Anjali Mehta
+
+Amoxicillin 250mg - 1 cap thrice daily before food
+ORS - Mix in water and drink as needed
+Paracetamol 500mg - 1 tab twice daily after food
+
+Notes: Take as prescribed. Drink water. Avoid fatty foods.

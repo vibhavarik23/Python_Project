@@ -1,0 +1,13 @@
+Prescription No: RX00028
+Patient Name: Meena Patel
+Age: 51
+
+Date: 29-Apr-2025
+
+Prescribed By: Dr. Priya Kapoor
+
+Metformin 500mg - 1 tab twice after meals
+Pantoprazole 40mg - 1 tab daily before breakfast
+ORS - Mix in water and drink as needed
+
+Notes: Take as prescribed. Drink water. Avoid fatty foods.

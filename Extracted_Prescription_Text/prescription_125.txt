@@ -1,0 +1,13 @@
+Prescription No: RX00125
+Patient Name: Rakesh Kumar
+Age: 23
+
+Date: 29-Apr-2025
+
+Prescribed By: Dr. Sameer Desai
+
+ORS - Mix in water and drink as needed
+Ranitidine 150mg - 1 tab before bed
+Amoxicillin 250mg - 1 cap thrice daily before food
+
+Notes: Take as prescribed. Drink water. Avoid fatty foods.

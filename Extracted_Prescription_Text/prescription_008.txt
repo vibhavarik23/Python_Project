@@ -1,0 +1,12 @@
+Prescription No: RX00008
+Patient Name: Rakesh Kumar
+Age: 35
+
+Date: 29-Apr-2025
+Prescribed By: Dr. Rekha Nair
+
+Pantoprazole 40mg - 1 tab daily before breakfast
+ORS - Mix in water and drink as needed
+Ranitidine 150mg - 1 tab before bed
+
+Notes: Take as prescribed. Drink water. Avoid fatty foods.

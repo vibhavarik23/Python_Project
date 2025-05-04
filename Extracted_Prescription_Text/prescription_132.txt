@@ -1,0 +1,13 @@
+Prescription No: RX00132
+Patient Name: Rakesh Kumar
+Age: 71
+
+Date: 29-Apr-2025
+
+Prescribed By: Dr. Priya Kapoor
+
+Amoxicillin 250mg - 1 cap thrice daily before food
+Pantoprazole 40mg - 1 tab daily before breakfast
+ORS - Mix in water and drink as needed
+
+Notes: Take as prescribed. Drink water. Avoid fatty foods.

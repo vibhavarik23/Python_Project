@@ -1,0 +1,13 @@
+Prescription No: RX00042
+Patient Name: Meena Patel
+Age: 30
+
+Date: 29-Apr-2025
+
+Prescribed By: Dr. Sameer Desai
+
+Ranitidine 150mg - 1 tab before bed
+Pantoprazole 40mg - 1 tab daily before breakfast
+ORS - Mix in water and drink as needed
+
+Notes: Take as prescribed. Drink water. Avoid fatty foods.

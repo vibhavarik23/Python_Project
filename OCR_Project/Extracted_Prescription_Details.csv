@@ -1,0 +1,7 @@
+Prescription No,Patient Name,Patient Age,Prescription Date,Doctor Name,Medicine
+RX00001,Amit Joshi,44,29-Apr-25,Dr. Neeraj Bansal,"['Ibuprofen 400mg ', 'Ranitidine 150mg ']"
+RX00002,Amit Joshi,19,29-Apr-25,Dr. Sameer Desai,"['Metformin 500mg ', 'Ibuprofen 400mg ', 'Amoxicillin 250mg ']"
+RX00003,Divya Mehra,23,29-Apr-25,Dr. Priya Kapoor,"['Metformin 500mg ', 'Pantoprazole 40mg ', 'Amoxicillin 250mg ']"
+RX00004,Manoj Tiwari,23,29-Apr-25,Dr. Priya Kapoor,"['Amoxicillin 250mg ', 'Pantoprazole 40mg ']"
+RX00005,Rakesh Kumar,34,29-Apr-25,Dr. Rekha Nair,"['Ibuprofen 400mg ', 'Amoxicillin 250mg ']"
+RX00006,Meena Patel,71,29-Apr-25,Dr. Sameer Desai,"['Amoxicillin 250mg ', 'Paracetamol 500mg ', 'Metformin 500mg ']"

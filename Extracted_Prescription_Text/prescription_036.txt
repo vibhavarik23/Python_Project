@@ -1,0 +1,12 @@
+Prescription No: RX00036
+Patient Name: Meena Patel
+Age: 39
+
+Date: 29-Apr-2025
+Prescribed By: Dr. Rekha Nair
+
+Amoxicillin 250mg - 1 cap thrice daily before food
+Pantoprazole 40mg - 1 tab daily before breakfast
+Ibuprofen 400mg - 1 tab every 6 hours
+
+Notes: Take as prescribed. Drink water. Avoid fatty foods.

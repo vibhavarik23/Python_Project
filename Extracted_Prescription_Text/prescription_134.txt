@@ -1,0 +1,13 @@
+Prescription No: RX00134
+Patient Name: Rakesh Kumar
+Age: 48
+
+Date: 29-Apr-2025
+
+Prescribed By: Dr. Priya Kapoor
+
+Ibuprofen 400mg - 1 tab every 6 hours
+Paracetamol 500mg - 1 tab twice daily after food
+Ranitidine 150mg - 1 tab before bed
+
+Notes: Take as prescribed. Drink water. Avoid fatty foods.

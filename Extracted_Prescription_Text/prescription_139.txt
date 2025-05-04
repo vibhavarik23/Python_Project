@@ -1,0 +1,13 @@
+Prescription No: RX00139
+Patient Name: Manoj Tiwari
+Age: 66
+
+Date: 29-Apr-2025
+
+Prescribed By: Dr. Anjali Mehta
+
+Paracetamol 500mg - 1 tab twice daily after food
+Metformin 500mg - 1 tab twice after meals
+Amoxicillin 250mg - 1 cap thrice daily before food
+
+Notes: Take as prescribed. Drink water. Avoid fatty foods.
